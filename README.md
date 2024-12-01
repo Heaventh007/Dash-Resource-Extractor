@@ -1,5 +1,6 @@
 # Dash-Resource-Extractor
-An extremely simple tool for extracting shrdres.xzp from xam.
+Not the craziest thing I've ever made, just a tool I made while bored to make extracting the shared resources from xam easier.
+
 - Requires xextool. You can find xextool.exe in the releases.
 
 ## How to use
