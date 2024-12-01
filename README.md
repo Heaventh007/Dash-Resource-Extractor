@@ -3,6 +3,8 @@ Not the craziest thing I've ever made, just a tool I made while bored to make ex
 
 - Requires xextool. You can find xextool.exe in the releases.
 
+[Resource Extractor Download](https://github.com/Heaventh007/Dash-Resource-Extractor/releases)
+
 ## How to use
 
 - Download the tool from the releases page.
