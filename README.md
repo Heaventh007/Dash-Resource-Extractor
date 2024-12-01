@@ -1,4 +1,7 @@
 # Dash-Resource-Extractor
+
+### IF YOU ALREADY HAVE DASHBOARD FILES WITH 'SHRDRES.XZP' YOU DO NOT NEED THIS TOOL.
+
 Not the craziest thing I've ever made, just a tool I made while bored to make extracting the shared resources from xam easier.
 
 - Requires xextool. You can find xextool.exe in the releases.
